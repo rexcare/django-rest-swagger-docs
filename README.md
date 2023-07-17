@@ -4,9 +4,7 @@
 This project provides a beginner's guide to django rest swagger 2 with
 function based views as well as class based views. It provides  building the 
 project from scratch. For those who want to integrate Django Rest Swagger into
-an existing project, head straight to: [Integrating Django Rest Swagger](https://github.com/m-haziq/django-rest-swagger-docs#integrating-django-rest-swagger) .
-
-> Read this article on [Medium](https://medium.com/@m_haziq/comprehensive-approach-to-django-rest-swagger-2-583e91a4c833) if that is more convenient for you.
+an existing project, head straight to: [Integrating Django Rest Swagger](https://github.com/ngud-0II9/django-rest-swagger-docs#integrating-django-rest-swagger) .
 
 ## Getting Started
 Before we start, we need this to be installed:
@@ -627,11 +625,3 @@ by online.swagger.io/validator. You can disable validation by setting `"VALIDATI
 your schema better manually by pasting on [https://editor.swagger.io/](https://editor.swagger.io/).  
 
     Success in validation would show: ![swagger-success](https://i.imgur.com/UwuUwIZ.png)
-
-## End Note:
-
-This repository is intended to help those who are facing issues
-using `django-rest-swagger 2`. If you like this effort, please like and share this with others. 
-If you have any suggestions, comment here or approach me on [linkedin](https://www.linkedin.com/in/m-haziq/) , [medium](https://medium.com/@m_haziq/), [twitter](https://twitter.com/contacthaziq) 
-or send me an [email](mailto:m_haziq@outlook.com) to discuss in person. 
-I would love to hear from you.
